@@ -3,6 +3,11 @@ package com.example.liuhongbing.svntestdemo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * 注释
+ * 111111111
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
