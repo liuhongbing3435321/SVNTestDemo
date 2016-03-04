@@ -15,4 +15,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        //33333333
+    }
 }
